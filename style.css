@@ -50,7 +50,7 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    font-weight: normal;
+    font-weight: bold;
     line-height: 1.5;
     margin: 0.2em 0;
 }
@@ -67,12 +67,12 @@ pre {
 }
 
 header h1 {
-    /*background: url('logo-377x236.png') transparent no-repeat;*/
-    height: 48px;
+    background: url('logo.png') transparent no-repeat;
+    height: 260px;
     overflow: hidden;
-    width: 377px;
+    width: 680px;
     margin:auto;
-    margin-top:20px;
+    margin-top:0px;
 }
 
 header h1 a {
