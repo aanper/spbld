@@ -1,0 +1,118 @@
+
+* {
+    border: 0;
+    font-family: inherit;
+    font-size: 1em;
+    font-style: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    text-decoration: none
+}
+
+a {
+    color: #FF5200;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    -webkit-transition: color .25s linear;
+    transition: color .25s linear
+}
+
+address,article,aside,div,footer,header,hgroup,nav,section {
+    display: block
+}
+
+b,h1,strong {
+    font-weight: bold
+}
+
+blockquote {
+    border-left: .25em solid #ccc;
+    margin: 0 0 0 .25em;
+    padding: .75em 0 .75em 1.5em
+}
+
+cite,dfn,em,i,var {
+    font-style: italic
+}
+
+code,pre,samp {
+    font-family: Consolas,'Lucida Console',monospace
+}
+
+
+h1 {
+    color: #fff;
+    font-family: 'Times New Roman',Times,serif;
+    font-size: 3em;
+    line-height: 1
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: normal;
+    line-height: 1.5;
+    margin: 0.2em 0;
+}
+
+html {
+    background: #00B2A1;
+    color: #ccc;
+    font: normal 100%/1.5 Calibri,Helvetica,Arial,Verdana,sans-serif;
+    overflow-y: scroll
+}
+
+pre {
+    white-space: pre
+}
+
+header h1 {
+    /*background: url('logo-377x236.png') transparent no-repeat;*/
+    height: 48px;
+    overflow: hidden;
+    width: 377px;
+    margin:auto;
+    margin-top:20px;
+}
+
+header h1 a {
+    display: block;
+    text-indent: -999em;
+    width: 192px
+}
+
+a:hover {
+    color: #0f0 !important;
+    -webkit-transition: color .25s linear;
+    transition: color .25s linear
+}
+
+a.bus {
+    color: #FF5200
+}
+
+a.deidee {
+    color: #FF5200
+}
+
+a.dinamite {
+    color: #FF5200
+}
+
+#content {
+    margin:auto;
+    background: #FFBA99;
+    color: #333;
+    padding: 1em 2em;
+    width: 32em
+}
+
+p {
+    margin: 1em 0;
+}
+
+footer {
+    padding:1em;
+    width: 15em;
+    margin:auto;
+}
