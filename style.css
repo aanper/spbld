@@ -111,8 +111,40 @@ p {
     margin: 1em 0;
 }
 
-footer {
+#footer {
     padding:1em;
     width: 15em;
     margin:auto;
+}
+
+.participants-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 2px;
+}
+
+.participants-solo {
+    font-family: Consolas,'Lucida Console',monospace;
+    font-size: 1em;
+    margin: 4px;
+    padding: 2px;
+    background: #FF5200;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}
+.participants-jam {
+    font-family: Consolas,'Lucida Console',monospace;
+    font-size: 1em;
+    margin: 10px;
+    padding: 2px;
+    background: #B4DC9D;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}
+
+.participants-info {
+
 }
