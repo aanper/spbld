@@ -111,9 +111,9 @@ p {
     margin: 1em 0;
 }
 
-#footer {
+footer {
+    color: #333;
     padding:1em;
-    width: 15em;
     margin:auto;
 }
 
